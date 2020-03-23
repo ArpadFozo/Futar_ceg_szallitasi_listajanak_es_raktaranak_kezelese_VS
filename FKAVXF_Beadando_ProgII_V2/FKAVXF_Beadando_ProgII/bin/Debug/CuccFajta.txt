@@ -1,0 +1,1 @@
+Asztal,Billentyuzet,Nyomtato,Videokartya,Processzor,Alaplap,Monitor,Szamitogep,SzamitogepHaz,Dvd,Winchester,Agy,Szekreny,Porcelan,Sajt,Ruha

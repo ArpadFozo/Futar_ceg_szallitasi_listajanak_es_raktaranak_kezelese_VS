@@ -1,0 +1,16 @@
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.exe.config
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.exe
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.pdb
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.csprojResolveAssemblyReference.cache
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.exe
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.pdb
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.exe.config
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.exe
+C:\Users\farpi_000\Desktop\Suli\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.pdb
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.exe.config
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.exe
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\bin\Debug\FKAVXF_Beadando_ProgII.pdb
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.csprojAssemblyReference.cache
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.csproj.CoreCompileInputs.cache
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.exe
+C:\Users\farpi\Dropbox\Sulis Anyagok\Prog\FKAVXF_Beadando_ProgII_V2\FKAVXF_Beadando_ProgII\obj\Debug\FKAVXF_Beadando_ProgII.pdb

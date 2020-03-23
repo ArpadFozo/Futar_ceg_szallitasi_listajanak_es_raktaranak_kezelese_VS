@@ -1,0 +1,14 @@
+Winchester;-1;38;765293
+Porcelan;-1;74;52705
+Sajt;100;64;628571
+SzamitogepHaz;-1;71;238005
+Nyomtato;-1;41;706388
+Asztal;-1;21;733323
+Asztal;21;14;658694
+Videokartya;-1;88;449049
+Nyomtato;100;87;377423
+Alaplap;23;58;155461
+Nyomtato;16;89;565223
+SzamitogepHaz;11;14;234093
+Billentyuzet;-1;37;525603
+Processzor;-1;89;130597
