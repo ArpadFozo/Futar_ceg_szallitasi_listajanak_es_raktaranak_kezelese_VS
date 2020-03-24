@@ -1,6 +1,2 @@
-Ruha;-1;30;976934
-Monitor;-1;21;176492
-Billentyuzet;-1;95;74737
-Nyomtato;14;59;694640
-Ruha;9;60;318789
-Szekreny;100;50;560670
+Winchester;10;57;578281
+Asztal;15;72;645677
